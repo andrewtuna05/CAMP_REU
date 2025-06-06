@@ -5,4 +5,5 @@ Repository contains material used and produced at Cal Poly Pomona's 2025 CAMP RE
 Program info: [CAMP REU](https://www.cpp.edu/camp-reu/research_projects.shtml)
 
 Mentor: Dr. Jimmy Risk
+
 Other Faculty: Dr. Jillian Cannons and Dr. Ryan Szypowski
